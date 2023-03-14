@@ -67,7 +67,7 @@
         justify-content: center ;
     }
 
-    .mw_100{
-        max-width: 100%;
+    .w_100{
+        width: 100%;
     }
 /* #endregion utilities */
