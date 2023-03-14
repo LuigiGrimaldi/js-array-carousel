@@ -9,6 +9,14 @@
         display: flex;
     }
 
+    .d-none{
+        display: none;
+    }
+
+    .d-active{
+        display: block;
+    }
+
     .container{
         width: 90%;
         margin: auto;
