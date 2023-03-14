@@ -9,6 +9,10 @@
         display: flex;
     }
 
+    .f_direction{
+        flex-direction: column;
+    }
+
     .images img:not(.active) {
         display: none;
     }
