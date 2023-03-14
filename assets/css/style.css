@@ -9,12 +9,8 @@
         display: flex;
     }
 
-    .d-none{
+    .images img:not(.active) {
         display: none;
-    }
-
-    .d-active{
-        display: block;
     }
 
     .container{
@@ -77,5 +73,9 @@
 
     .w_100{
         width: 100%;
+    }
+
+    .mt-20{
+        margin-top: 20rem;
     }
 /* #endregion utilities */
